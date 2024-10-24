@@ -36,6 +36,7 @@ On the target machine, change the permissions of the `rootshell` binary:
 
 ```bash
 chmod +x /tmp/rootshell
+chmod +x /tmp/libhax.so
 ```
 
 ### 4. Exploit the vulnerability
