@@ -20,7 +20,7 @@ This code is for educational purposes only. Do not use this exploit on systems y
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/screenroot-exploit.git
+git clone https://github.com/H420Prajyot/GNU-Screen-4.5.0---Exploit.git
 cd screenroot-exploit
 ```
 
